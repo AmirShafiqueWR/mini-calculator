@@ -1,0 +1,19 @@
+{
+  "name": "c3t1-mini-calculator",
+  "version": "1.0.0",
+  "description": "A minicalculator with typescript, Node.js and Inquirer.js",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Shafique",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
